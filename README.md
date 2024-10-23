@@ -22,10 +22,25 @@ A React-based web application that allows users to drop pins on a map, add remar
 
 # Screenshots
 
-![Screenshot 2024-10-23 122850](https://github.com/user-attachments/assets/204f61e4-6b64-4452-8e34-594c2bc64c9f)
+![Screenshot 2024-10-23 125813](https://github.com/user-attachments/assets/583696d7-0b56-4c2c-8279-8b27e58ab2fc)
 
 
-![Screenshot 2024-10-23 122924](https://github.com/user-attachments/assets/d936b13f-2929-4064-9cbf-447ffd8612c7)
+![Screenshot 2024-10-23 125554](https://github.com/user-attachments/assets/192c9cc8-27a0-44ce-81f6-9122d9fc7f0a)
 
 
-![Screenshot 2024-10-23 123152](https://github.com/user-attachments/assets/edc67ddd-4b34-471c-b072-633521813269)
+![Screenshot 2024-10-23 125639](https://github.com/user-attachments/assets/0850b747-ee49-49e8-a22c-2d2e80b62cbc)
+
+
+![Screenshot 2024-10-23 125722](https://github.com/user-attachments/assets/5a391708-ce5c-436a-a293-9cc9b9370b23)
+
+
+
+
+
+
+
+
+
+
+
+
